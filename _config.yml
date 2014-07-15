@@ -1,0 +1,12 @@
+# Site settings
+title: Glyf Gnosis 
+email: eric@glyf.net
+description: "A series of how to guides for Hadoop, Big Data Analyitcs and related topics."
+baseurl: "glyfnet.github.io"
+url: "http://gnosis.glyf.net"
+twitter_username: glyfnet 
+github_username: glyfnet 
+
+# Build settings
+markdown: kramdown
+permalink: pretty
